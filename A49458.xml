@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Right Worshipfull Company of the Levant Merchants at St. Olav's Hart-Street, Thursday Decemb. 15, 1664 by John Luke ...</title>
+            <author>Luke, John, 1633 or 4-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49458</idno>
+            <idno type="STC">Wing L3472</idno>
+            <idno type="STC">ESTC R3028</idno>
+            <idno type="EEBO-CITATION">13672389</idno>
+            <idno type="OCLC">ocm 13672389</idno>
+            <idno type="VID">101163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101163)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 794:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Right Worshipfull Company of the Levant Merchants at St. Olav's Hart-Street, Thursday Decemb. 15, 1664 by John Luke ...</title>
+                  <author>Luke, John, 1633 or 4-1702.</author>
+               </titleStmt>
+               <extent>[4], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Daniel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101163:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the Right Worſhipfull COMPANY OF THE LEVANT MERCHANTS At S<hi rend="sup">t.</hi> 
+               <hi>Olav's</hi> Hart-ſtreet LONDON, <hi>Thurſday Decemb.</hi> 15. 1664.</p>
+            <p>
+               <hi>By</hi> JOHN LUKE, B.D. <hi>Fellow of</hi> Sidney-Suſſex <hi>Colledge in</hi> Cambridge.</p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <bibl>
+                     <hi>Chryſoſt.</hi>
+                  </bibl>
+               </p>
+               <p>Seculum Reſurrectionem mortuorum, nec quum errat, ignorat. <bibl>
+                     <hi>Tertull.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Daniel.</hi> 1664.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101163:2"/>
+            <pb facs="tcp:101163:2"/>
+            <p>Illuſtri &amp; magnifico Domino<lb/> ANDREAE RICCARD<lb/> Equiti aurato<lb/> Mercaturae à (Sole ſe) Levante nuncupatae<lb/> Praeſidi Conſultiſſimo.<lb/> Eximio Domino<lb/> JOHANNI JOLLIFF Armigero<lb/> Vigilantiſſimo vice-praeſidi.<lb/> Integerrimis nobiliſſimi Commercii Sociis<lb/> Univerſis, Singulis,<lb/> Viris ſplendidiſſimis, Generoſiſſimis, Humaniſſimis<lb/> Amicis, Patronis plurimùm Honorandis.<lb/> Nihil Eorum rogatu non tentandi ſtudio<lb/> Exaratam, habitam, candidae cenſurae publicè ſubjectam<lb/> Concionem qualemcunque iſtam<lb/> In ampliſſimae eorum benevolentiae,<lb/> Quò tenuioris facultatis<lb/> Eò impenſioris gratitudinis &amp; obſervantiae ſuae<lb/> Certiſſimum argumentum<lb/> 
+               <hi>D. D. D.</hi>
+               <lb/> Divinâ largiente gratiâ<lb/> 
+               <hi>Smyrnae</hi> vetuſtiſſimam urbem, Evangelii causâ, petiturus<lb/> Europâ Aſiáque<lb/> Terrâ maríque<lb/> Quâ Occidens, Quâ Oriens<lb/> Chriſto Duce, vocaverit<lb/> Celeberimae Societatis<lb/>
+            </p>
+            <closer>
+               <signed>Devotiſsimus in eodem Chriſto Servus <hi>JOHANNES LUKE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:101163:3"/>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>
+                  <hi>Joh. Hall,</hi> R. P. D. Epiſc. <hi>Lond.</hi> à ſac. Domeſt.</signed>
+               <dateline>Ex aedibus <hi>Londinenſ.</hi> 
+                  <date>Feb. 11. 1664.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:101163:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Cor. 15.29.</hi>
+                  </bibl>
+                  <p>Elſe what ſhall they do which are baptized for the dead, if the dead riſe not at all? why are they then baptized for the dead.</p>
+               </q>
+            </epigraph>
+            <p>A Verſe by conſent of diſſenting Inter<g ref="char:EOLhyphen"/>preters placed firſt in the order of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, thoſe <hi>hard intelligibles,
+<note place="margin">Voſſ. de Baptiſm. diſp. 12. th. 2. Bertam. Lucbr. Franktal. Tarnov. Exerc. Bibl</note> truths</hi> retired into the <hi>depth, myſteries</hi> bound up in a <hi>fast knot,</hi> which the Apoſtle <hi>Peter</hi> ad<g ref="char:EOLhyphen"/>moniſheth our Chriſtian Caution to obſerve in the writings of his beloved Brother <hi>Paul.</hi> 2 <hi>Pet.</hi> 3.16. <hi>In which are ſome things hard to be understood, which they that are unlearn<g ref="char:EOLhyphen"/>ed and unſtable wrest, as they do alſo the o<g ref="char:EOLhyphen"/>ther Scriptures unto their own deſtruction.</hi> He who had been rapt into the <hi>third Heavens,</hi>
+               <note place="margin">2 Cor. 12.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> he
+<pb n="2" facs="tcp:101163:4"/>ſometimes ſpeaks in the <hi>Clouds,</hi> he whoſe mind was converſant with ſublimeſt con<g ref="char:EOLhyphen"/>templations, no wonder if his abſtruſe con<g ref="char:EOLhyphen"/>ceptions leave a tincture of their myſtery in <hi>dark ſayings.</hi>
+               <note place="margin">Pſal. 49.4.</note> Holy Scripture is a plentifull ſtorehouſe of the food of life accommodate to all ages and conſtitutions. Here you have <hi>milk</hi> for <hi>babes</hi> and <hi>ſtrong meat</hi> for <hi>grown men:</hi>
+               <note place="margin">Hebr. 5.13.14.</note> plainneſs to deſcend to our weakneſs, difficulty to exalt our induſtry; plainneſs to invite our ſtudy, obſcurity to keep off contempt; perſpicuity for our inſtitution, obſcurity for our veneration; we bleſs the goodneſs of God in the clear diſcoveries, we adore his wiſdome in the veyled myſteries. The plain inſtructions of Scripture, the pre<g ref="char:EOLhyphen"/>cious truths we are ſure of, we will im<g ref="char:EOLhyphen"/>prove by the grace of God for our <hi>ſalvation;</hi> the knots and difficulties; the doubts and uncertainties if we cannot unfold and ſtate them to our <hi>ſatisfaction,</hi> at leaſt from the warning of the bleſſed Apoſtle, we will take heed with the ſame divine help that we do not wreſt them to our <hi>deſtruction.</hi>
+            </p>
+            <pb n="3" facs="tcp:101163:4"/>
+            <p> In the reading this chapter you have obſerved that Saint <hi>Paul</hi> therein maketh it his work, largely, variouſly, undeniably to prove and eſtabliſh that grand article of Faith, the ſcoff of the Heathen, the com<g ref="char:EOLhyphen"/>fort and joyfull expectation of the Chriſtian, the <hi>Reſurrection of the dead,</hi> this verſe a<g ref="char:EOLhyphen"/>mong others evidently to contain an ar<g ref="char:EOLhyphen"/>gument, whatever it be, of the ſame im<g ref="char:EOLhyphen"/>portant affirmation, quickned and ſharp<g ref="char:EOLhyphen"/>ned in forme of a queſtion, a repeated que<g ref="char:EOLhyphen"/>ſtion, the better to touch, pierce and awa<g ref="char:EOLhyphen"/>ken the irrational ſtupid ſons, whether of ignorance or hereſie that oppoſed them<g ref="char:EOLhyphen"/>ſelves to the Goſpel truth. <hi>Elſe what ſhall they do which are baptized for the dead, if the dead riſe not at all? why are they then bapti<g ref="char:EOLhyphen"/>zed for the dead?</hi> An <hi>Aenigma</hi> without an <hi>Oedipus,</hi> an <hi>oracle</hi> without an <hi>interpretation,</hi> a <hi>pearle</hi> of truth <hi>locked</hi> up,
+<note place="margin">Luke 11.52.</note> no <hi>key of know<g ref="char:EOLhyphen"/>ledge</hi> that we underſtand, either from <hi>Scri<g ref="char:EOLhyphen"/>pture</hi> or the <hi>Hiſtories</hi> of the age when it was written wherewith to <hi>open</hi> to our view it's ſacred <hi>luſtre.</hi>
+               <note place="margin">Auguſtinus ex Varr. 1.19. de Civ. Dei.</note> The old <hi>Heathens</hi> numbred
+<pb n="4" facs="tcp:101163:5"/>
+               <hi>two hundred eighty eight</hi> opinions concerning the <hi>ſummmm bonum,</hi> the chief good and true felicity, and in this at laſt they ought all to have agreed that never an one was true.
+<note place="margin">Magnen. de atomis.</note> The <hi>Philoſophers</hi> reckon <hi>two and four<g ref="char:EOLhyphen"/>ty</hi> concerning the conſtitution of a body, the compoſition of <hi>continuous quantity</hi> and ſtill ſuch digladiations remain in the <hi>Phyſiek</hi> and <hi>Mathematick</hi> Schools concerning theſe minutes and motes in the Sun, as if they would have their own opinions like the ſub<g ref="char:EOLhyphen"/>ject whereof they argue diviſible <hi>in ſemper diviſibilia.</hi> How many the ſeveral opinions and conjectures touching the true ſentence of theſe words are, I am not able to ſay,
+<note n="*" place="margin">Ex iis quatuor hic infra ſe<g ref="char:EOLhyphen"/>quuntur. 5. Baptizati pro ſcipſis in ſpem rei quam poſt mortem aſſequuturi ſint. viz. Reſurre<g ref="char:EOLhyphen"/>ctionis. Caſtal. 6. Tanqu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> commortui Chriſto, agentes, repraeſen<g ref="char:EOLhyphen"/>tantes mortuos. Theodoret. Cajetan. 7. Ut Chriſto commoriantur cum eo reſurrecturi. Sedul. 8. pro corporibus naturâ mortuis Iſid. Peluſ. 9. Superſide reſurrectionis mortuorum. Chryſoſt. 10. Pro peccatis. (quae opera ſunt mortua) abluenelis. Aquinas. 11. Lo<g ref="char:EOLhyphen"/>tionibus uſi propter immunditié contractam in ſepeliendis mortuis, Bertram. 12. La<g ref="char:EOLhyphen"/>vantes ſuper mortuos, abluentes cadavera. 13. Luſtrali aquâ purgati jam mortui, vel poſt mortem. Beza, Pareus. 14. Fideles qui cadavera abluentes &amp; ipſi tingun<g ref="char:EOLhyphen"/>tur pro mortuis i. e. mortuorum abluendorum cauſâ. refert Lud. de la Cerd. not. in Tertul. 15 Supplicio affecti, martyrio coronati, pro aſſertâ mortuorum reſurre<g ref="char:EOLhyphen"/>ctione vid. Eſtium. 16. Ut mortuos reſurrectionem expectare doceant. Voſſ. 17. Supra &amp; praeter eos qui jam antea extrema paſſi ſunt. Tarnov. 18. Memorat Eſtius ablutionem quandam vicariam Judaeis uſitatam. 19. Item quid A. Montanus novè ſtatuerit. 20. Apponat &amp; numerum protrahat ſicui vacat &amp; lubet.</note> 
+               <hi>ſixteen or ſeventeen</hi> I have had the patience to number, and queſtion not but in conſul<g ref="char:EOLhyphen"/>ting
+<pb n="5" facs="tcp:101163:5"/>new Authors, we may be furniſhed with new conceits: many an one diſliking what went before him, and himſelf as little regarded by him that followes.</p>
+            <p>To bring in an <hi>Inventary</hi> of all <hi>Opinions,</hi> were not to <hi>preach,</hi> but to <hi>tell a ſtory,</hi> and to make a <hi>rehearſal</hi> without a <hi>Sermon:</hi> yet ſhould I propoſe any one ſingle, ſuch notable objections are in readineſſe againſt it, and ſuch a number plead fair for <hi>competition</hi> with it, that I fear you will wiſh for the <hi>non-appa<g ref="char:EOLhyphen"/>rents,</hi> and think beſt of thoſe that are with<g ref="char:EOLhyphen"/>drawn from your <hi>choice.</hi> If any conſenta<g ref="char:EOLhyphen"/>neous to the <hi>analogy of Faith,</hi> had above o<g ref="char:EOLhyphen"/>ther particular intereſt in the occaſion of our meeting, 'twere perchance no unpardo<g ref="char:EOLhyphen"/>nable errour to ſpeed the match, &amp; taking confidence from the innocent circumſtance to commend that truth to your prepared minds, which the oportunity had made you all willing to believe. The eye fixed on a plea<g ref="char:EOLhyphen"/>ſing and ſuitable object, is willing to termi<g ref="char:EOLhyphen"/>nate its ſight and look no farther. Thus in caſe of this preſent Text, the learned Dr.
+<pb n="6" facs="tcp:101163:6"/>
+               <hi>Stuart,</hi> in his elegant Sermon extant upon it, being a funeral Sermon, interprets this bap<g ref="char:EOLhyphen"/>tizing for the dead, to be the <hi>waſhing the bodies of the dead,</hi> the regards had to the dead corps in funeral Ceremonies, a ſenſe, if I miſtake not, as improper to the Text, as proper and gracefull to that ſolemnity. Thus if a Martyrs memorials were to be celebra<g ref="char:EOLhyphen"/>ted, and an Eloquent Interpreter ſhould dictate this Baptiſme for the dead: to be underſtood of <hi>Baptiſme in the Cup of blood</hi> of ſuffering affliction, perſecution and death, in witneſſe and hopes of the reſurrection of the dead: how forwardly would our minds with gratulation aſſent to an excellent truth indeed, but unduely ſeated in this place. When the occaſion preſents it ſelf, as the <hi>en<g ref="char:EOLhyphen"/>cloſure of Silver:</hi>
+               <note place="margin">Prov. 25.11.</note> an accommodate interpre<g ref="char:EOLhyphen"/>tation ſuites with it like the <hi>Apple of Gold.</hi>
+            </p>
+            <p>Yet what ſeaſon more excellent, or can be more deſireable then the preſent opportu<g ref="char:EOLhyphen"/>nity, this equipoiſe of the ballance, this un<g ref="char:EOLhyphen"/>biaſſed liberty of truth? what is alwaies law, is now neceſſity too; to deſcribe truth in it's
+<pb n="7" facs="tcp:101163:6"/>innocent venerable nudity, deveſt and re<g ref="char:EOLhyphen"/>leaſed of all external, by-reſpects, which may ſomtimes make it gay and gaudy for an hour, but never conciliate it any true beauty and durable amiability; may pleaſe and gratifie the Auditour, while the floating humour holds, but rarely ſink into the depth and enter the heart to remain a root of life, an operative principle of laſting edification.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>The Jeſuits are wondrouſly induſtrious to ſpell the Fable of their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> out of theſe Elements; to fetch fire out of wa<g ref="char:EOLhyphen"/>ter, the flames of purgatory out of the Bap<g ref="char:EOLhyphen"/>tiſme in the Text. Baptized for the dead, ſay they, how can it be underſtood,
+<note place="margin">Bellarm. l. 1. de Purgat. c. 6.</note> unleſs <hi>de Baptiſmo Lachrymarum &amp; poenitentiae, qui ſuſcipitur orando, jejunando, eleemoſynas faci<g ref="char:EOLhyphen"/>endo, &amp;c.</hi> Tears and Afflictions, Weep<g ref="char:EOLhyphen"/>ings and Mournings, Faſtings and Prayers, Almes and Oblations for the dead, for the help of the dead, for relief of the faithful de<g ref="char:EOLhyphen"/>ceaſed
+<pb n="8" facs="tcp:101163:7"/>from the Pains of <hi>Purgatory.</hi> Not to mention the improper acception of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, never uſed in ſacred <hi>Scripture</hi> for the <hi>Baptiſme of Affliction,</hi> without ſome ex<g ref="char:EOLhyphen"/>plication adjoyned by the more known <hi>me<g ref="char:EOLhyphen"/>taphor</hi> of the <hi>Cup;</hi> excepting one place onely, and when ſo uſed, it ſignifying the laſt of ſufferings, that of Death it ſelf; nor to re<g ref="char:EOLhyphen"/>mind them to read plainly that 'tis not ſaid, they who <hi>baptize themſelves,</hi> but they who are <hi>baptized;</hi> to let paſs theſe and other in<g ref="char:EOLhyphen"/>congruities and abuſes; theſe men may do well to take notice how oppoſite this <hi>figment</hi> of theirs, maintained ſo ſtifly for eſtabliſhing the wicked, but gainfull merchandiſe of <hi>in<g ref="char:EOLhyphen"/>dulgences,</hi> how oppoſite it is to other places of <hi>Scripture;</hi> how it is condemned by the <hi>light,</hi> and then think whether it be courage or guiltineſſe to ſeek refuge in the <hi>dark,</hi> let them firſt reconcile their Fable to <hi>plain Scrip<g ref="char:EOLhyphen"/>tures,</hi> before they attempt to confirm it from <hi>obſcure.</hi> The Scripture bleſſeth them that die in the Lord, <hi>Rev.</hi> 14.13. <hi>Bleſsed are the dead which die in the Lord, from hence<g ref="char:EOLhyphen"/>forth,
+<pb n="9" facs="tcp:101163:7"/>yea, ſaith the Spirit, that they may rest from their labours, and their works do follow them.</hi> It diſmiſſes the faithfull departed from the labours of this life, not ſends them to the pains and excruciations of another. <hi>In the place where the tree falleth there it ſhall be.</hi>
+               <note place="margin">Eccl. 11.3.</note> The dead, if good, they are happy, and ſtand not in need of our prayers, if bad, they are miſerable; and our faſtings, prayers and almes cannot help them. The holy <hi>Martyr</hi> S. <hi>Cypri<g ref="char:EOLhyphen"/>an,</hi> whom theſe mens own <hi>Decretals,</hi> and that not undeſervedly, place firſt of all the Fa<g ref="char:EOLhyphen"/>thers, <hi>In hac vita,</hi> ſaith he,
+<note place="margin">ad Demetr.</note> 
+               <hi>vita acquiritur vel amittitur, ubi hinc exceſſum fuerit, nullus eſt poe<g ref="char:EOLhyphen"/>nitentiae locus, nullus ſatisfactionis Effectus.</hi>
+            </p>
+            <p>Among the opinions and conjectures of the Fathers and orthodox modern Divines there are about ſix or ſeven which ſpeak of ſuch <hi>Sacramental Baptiſme</hi> as is common to all Chriſtians, to all who have taken on them the Diſcipleſhip of Chriſt, and ſealed their profeſſion by the uſe of his ſacred inſtituti<g ref="char:EOLhyphen"/>ons. Others with diverſity of opinion inter<g ref="char:EOLhyphen"/>pret it of ordinary <hi>ceremonious ablutions,</hi>
+               <pb n="10" facs="tcp:101163:8"/>which likewiſe or other uſages of equal re<g ref="char:EOLhyphen"/>ſpect and argument for the preſent purpoſe were in faſhion among all people, Heathens and Jewes as well as Chriſtians. Others not without ſome variety will have it to be under<g ref="char:EOLhyphen"/>ſtood of <hi>Baptiſme metaphorical,</hi> the <hi>Baptiſme of bloud,</hi> perſecution and death for the truth of Chriſt.</p>
+            <p>In all likelyhood the Apoſtle ſpeaketh not of Baptiſme common to all, in which ſenſe he would rather have ſaid, what ſhall <hi>we</hi> do who are baptized, and why are <hi>we</hi> baptized? It never being his manner to at<g ref="char:EOLhyphen"/>tribute to believers in the third perſon thoſe things he ſpeaketh of which pertain in com<g ref="char:EOLhyphen"/>mon to all believers. In all likelyhood he ſpeaketh of a Baptiſme then in uſe among the <hi>Corinthians,</hi> peculiar to ſome certain perſons in certain caſes and ſuppoſed neceſ<g ref="char:EOLhyphen"/>ſities. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And for figurative Baptiſme that of perſecution and death in witneſs to the truth of the Goſpel, Baptiſme being very rarely uſed in Scripture in this ſenſe; and when ſo uſed in every
+<pb n="11" facs="tcp:101163:8"/>place, except only that in S. <hi>Luke</hi> 12.50. it having ſome plain explication annexed, we ſee little probability of reaſon why we ſhould leave the ready and uſual, for a re<g ref="char:EOLhyphen"/>mote and unwonted ſignification. But then the following words, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, do ſo conſtrain and puzzle, ſo entangle and non<g ref="char:EOLhyphen"/>plus both this and all the forementioned o<g ref="char:EOLhyphen"/>pinions, that we have no encouragement at all to crowd in the dark with this throng of groundleſs peradventures; to involve our ſelves with them in the Labyrinth of inex<g ref="char:EOLhyphen"/>tricable perplexities and improprieties. We ſeek a truth which may freely flow forth, not be forcibly haled up: which the Text may clearly and kindly own and embrace, not be bound to with the rough chains of harſh and coacted interpretations.</p>
+            <p>Three Expoſitions there are touching Ba<g ref="char:EOLhyphen"/>ptiſme in the notion of a Sacrament, and that not as common to all, but as particu<g ref="char:EOLhyphen"/>larly adminiſtred to ſome certain per<g ref="char:EOLhyphen"/>ſons in certain caſes and circumſtances. The moſt antient, (two of them eſpecially) and
+<pb n="12" facs="tcp:101163:9"/>the moſt probable; of longeſt ſtanding, and of firmeſt foundation; maintained by the beſt Authours, and the beſt reaſons, and which our Engliſh tranſlations of the Holy Bible have at one time or another ſeem<g ref="char:EOLhyphen"/>ed to preferre, to each of which we will do that right as fairly and impartially to admit them to your audience.</p>
+            <p>The firſt is that of <hi>Luther,</hi>
+               <note place="margin">Baptiſmus ſuper mor<g ref="char:EOLhyphen"/>tuorum ſe<g ref="char:EOLhyphen"/>pulchris.</note> (for that is the oldeſt date I find thereof) and his Secta<g ref="char:EOLhyphen"/>tours, and to which the learned <hi>Voſſius</hi> in his <hi>Theſ. de Reſurrect.</hi> hath ſubſcribed his aſ<g ref="char:EOLhyphen"/>ſent: <hi>Luther</hi> in his enarration of this Epiſtle thus writeth upon the place, <hi>Ad hunc arti<g ref="char:EOLhyphen"/>culum (de Reſurrect. mortuorum) penes homi<g ref="char:EOLhyphen"/>nes Confirmandum apud demortuorum ſepul<g ref="char:EOLhyphen"/>chraſe baptizari ſinebant, and ſignificandum &amp; teſtandum quod conſtantiſſimè crederent mortu<g ref="char:EOLhyphen"/>os qui ibi ſepulti jacerent, &amp; ſuper quibus ſe baptizari ſinerent reſurrecturos eſſe.</hi> The Chri<g ref="char:EOLhyphen"/>ſtians of old had a cuſtome to adminiſter or receive Baptiſme <hi>over</hi> the dead, that is to ſay, upon the tombes and graves of Martyrs and other faithfull ſervants of God departed
+<pb n="13" facs="tcp:101163:9" rendition="simple:additions"/>this life, thereby ſignifying and teſtifying that they firmly believed both themſelves and they over whom they were baptized ſhould riſe again to immortal life. This ſenſe preſerves the original inviolate, which may as truly be rendred <hi>ſuper mortuis, over</hi> or <hi>up<g ref="char:EOLhyphen"/>on the dead</hi> as <hi>pro mortuis for the dead,</hi> the pre<g ref="char:EOLhyphen"/>poſition <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> equally admitting either tran<g ref="char:EOLhyphen"/>ſlation, as any child of the Grammar is able to bring examples. And hereto accordeth our old Engliſh tranſlation of uſe in K. <hi>Edward the ſixth's</hi> dayes. <hi>Elſe what do they which are baptized over the dead, if the dead riſe not at all? why are they then baptized over them?</hi> Nei<g ref="char:EOLhyphen"/>ther can any thing be excepted againſt this interpretation, could the proof and certain<g ref="char:EOLhyphen"/>ty be produced of the hiſtory, the cuſtome whereon it is grounded. But this the work we may ſweat at, &amp; do no good on't. Whom ſhould we rather conſult to reach home the interpretation to us then the <hi>Centuriators</hi> of <hi>Meydenburgh,</hi> and the learned and labori<g ref="char:EOLhyphen"/>ous compiler of the <hi>Loci Theologici,</hi> all Authors of the <hi>Lutheran</hi> perſwaſion. The <hi>Centuria<g ref="char:EOLhyphen"/>tors
+<pb n="14" facs="tcp:101163:10"/>Cent.</hi> 1. <hi>l.</hi> 2. <hi>c.</hi> 6. about the beginning have thus recorded. <hi>In Corinthiaca Eccleſia ſuper mortuis, hoc est, in eo loco ubi ſepeliebantur mortui baptizatum eſſe ex</hi> 1. <hi>Cor.</hi> 15. <hi>conſtat.</hi> That in the Church of <hi>Corinth</hi> they uſed to baptize over the dead, that is to ſay, in the place where the dead were buryed, 'tis ma<g ref="char:EOLhyphen"/>nifeſt, ſay they; from the 1. <hi>Cor.</hi> 15. This you ſee is to bring the Text to aſſert the Hi<g ref="char:EOLhyphen"/>ſtory, but the Text being of obſcure and doubtfull ſignification we want the Hiſtory to clear the Text. The <hi>Author</hi> of the <hi>Theo<g ref="char:EOLhyphen"/>logical</hi> common places <hi>Cap.</hi> 7. <hi>de baptiſmo</hi> al<g ref="char:EOLhyphen"/>ledgeth a certain Epiſtle of the Church of <hi>Smyrna,</hi> and the teſtimony of S. <hi>Auſtin</hi> for the evidence of this ſtory; but when we have taken the pains to read the ſaid Epiſtle and quotation out of S. <hi>Auſtin,</hi> we find that to take place which the frequency of the ac<g ref="char:EOLhyphen"/>cident hath now turned into a proverb
+<q>—minuit praeſentia famam.</q>
+            </p>
+            <p>In S. <hi>Auſtin</hi> I find nothing ſo far appli<g ref="char:EOLhyphen"/>cable to the purpoſe as that I may not chooſe to ſave time in paſſing it by. The Epiſtle of
+<pb n="15" facs="tcp:101163:10"/>the Church of <hi>Smyrna</hi> extant in <hi>Euſebius, l.</hi> 4. <hi>c.</hi> 15. concerning the martyrdome of their famous S. <hi>Polycarp,</hi> writeth indeed that the Chriſtians uſed to aſſemble at his tomb for performing feſtival celebrations in ho<g ref="char:EOLhyphen"/>nour to his memory, and for exerciſing, pre<g ref="char:EOLhyphen"/>paring and confirming others to the ſame conflict for the holy Faith; a cuſtome well known to many here preſent to be in ſome part continued by the poor reliques of that once famous and flouriſhing Church to this very day: but not a word of ad<g ref="char:EOLhyphen"/>miniſtring Baptiſme there, which if it had been uſed, no doubt but the Hiſtorian who triumphs in relating the circumſtances of honour done to the Martyrs and the holy Chriſtian profeſſion, would with all advan<g ref="char:EOLhyphen"/>tages have recorded it to poſterity. Yet ſay, they did adminiſter Baptiſme over the tomb of this ſingle Martyr, what doth that argue for the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Text written a<g ref="char:EOLhyphen"/>bove an hundred years before the martyr<g ref="char:EOLhyphen"/>dome of S. <hi>Polycarp.</hi> Certainly the uſe of burying in Churches, where the ſacred Or<g ref="char:EOLhyphen"/>dinance
+<pb n="16" facs="tcp:101163:11"/>of Baptiſm is adminiſtred, was very ſeldome if ever known in the world for ſe<g ref="char:EOLhyphen"/>veral hundreds of years after; neither then do I find it received in reference to any ſuch teſtification which is here alledged. Wherefore we will diſturb this firſt opinion no farther; we leave it aſleep among the tombes and graves where we find it, we ob<g ref="char:EOLhyphen"/>ject nonage &amp; minority againſt the cuſtome it produceth, it muſt not adde ſeveral hun<g ref="char:EOLhyphen"/>dreds of years to it's time without ſhewing the Regiſter, if ever ſuch cuſtome did obtain upon the intent here diſputed, 'tis not above eleven or twelve hundred years old at the moſt, and that's not ſufficient age to give ſuffrage for determining the debate.</p>
+            <p>The ſecond interpretation is that of
+<note place="margin">Baptiſmus Clinicoru<g ref="char:cmbAbbrStroke">̄</g>
+               </note>
+               <note n="*" place="margin">Haereſ. 28. Haec inter<g ref="char:EOLhyphen"/>pretatio prae caeteris arridet Doctori Donne. conc. ult. in locum.</note> 
+               <hi>Epi<g ref="char:EOLhyphen"/>phanius, De Baptiſmo Clinicorum,</hi> received and purſued by <hi>Eſtius, Calvin, Capellus,</hi> and ma<g ref="char:EOLhyphen"/>ny other learned men, among whom the forementioned <hi>Voſſius,</hi> in his <hi>Theſes de Bapti<g ref="char:EOLhyphen"/>ſmo</hi> notwithſtanding before in his <hi>theſ. de Reſurrect.</hi> he had aſſented to the former, an argument not of his forgetfulneſs or incon<g ref="char:EOLhyphen"/>ſtancy,
+<pb n="17" facs="tcp:101163:11"/>but of his uncertainty or doubtful<g ref="char:EOLhyphen"/>neſs in determining the difficulty. I forbear citations which would deceive us of the time and fill a volume. The ſtory of the o<g ref="char:EOLhyphen"/>pinion in ſhort is this. There was a cuſtome came early into the Church, and continued till at leaſt about the 400. year of our Lord, that many who deſired to be baptized into the Name of Chriſt thought good to deferre their Baptiſme till the latter end of their life, till they lay ſick upon their death-bed; hence by the ancient Church called <hi>Clinici,</hi>
+               <note place="margin">Epiſt. 76.</note> whom S. <hi>Cyprian</hi> elegantly oppoſeth to <hi>Peripatetici,</hi> for that they were fixed to their bed, not able to walk up and down, thinking, according to the errour of <hi>Novatian,</hi> deſtructive to all faith and repent<g ref="char:EOLhyphen"/>ance, from a wrong underſtanding of that place of the divine authour to the <hi>Hebrews, c.</hi> 6. <hi>v.</hi> 4. that if after they were baptized they then fell into ſin, there was no Sacrament remaining for them, no hopes of reconcilia<g ref="char:EOLhyphen"/>tion to God. Wherefore conſcious of their in<g ref="char:EOLhyphen"/>firmity and proneneſs to evil, the danger
+<pb n="18" facs="tcp:101163:12"/>they were in of being again more or leſs de<g ref="char:EOLhyphen"/>filed with the pollutions of the world, the fleſh and the Devil, which they had renoun<g ref="char:EOLhyphen"/>ced they choſe to delay their Baptiſme till the time of their death, that ſo they might have a pure tranſmigration out of the body; and, before the commiſſion of more ſins, de<g ref="char:EOLhyphen"/>part this life in ſure hope of reſurrection to life immortal. Thus the Emperour <hi>Conſtan<g ref="char:EOLhyphen"/>tine</hi> long deferred his Baptiſme,
+<note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſeb.</note> and his Son <hi>Conſtantius</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> deſired to be baptized at the point of death.
+<note place="margin">Athanaſ. de ſynodis.</note> The ſame delay we find admitted by the Empe<g ref="char:EOLhyphen"/>rours <hi>Theodoſius</hi> the Great,
+<note place="margin">Ambroſ. in obit. Theo<g ref="char:EOLhyphen"/>doſ. &amp; Va<g ref="char:EOLhyphen"/>lentin.</note> and <hi>Valentinian;</hi> which laſt, purpoſing to be baptized when he came home, was prevented by death. This raſh and dangerous omiſſion this negle<g ref="char:EOLhyphen"/>cting God's time and chuſing our own, wit<g ref="char:EOLhyphen"/>neſſed againſt by Almighty God in the death of many before they were baptized Saint <hi>Gregory Nazianzen</hi> with his contemporaries earneſtly oppoſed in the Eaſtern, and S. <hi>Am<g ref="char:EOLhyphen"/>broſe</hi> with other learned men in the Weſtern Churches. Now the Patrons of this interpre<g ref="char:EOLhyphen"/>tation
+<pb n="19" facs="tcp:101163:12"/>thus read the Apoſtles argument, what ſhall they do which are baptized <hi>for dead,</hi> (and that we find indeed to be the reading of our Bibles in <hi>Queen Eliza<g ref="char:EOLhyphen"/>beth's</hi> Reign) why are they then bapti<g ref="char:EOLhyphen"/>zed <hi>for dead?</hi> that is to ſay, <hi>as dead,</hi> when taken <hi>for dead,</hi> when ready to die and go out of the world; that which they do ſo late, which they put off to the laſt time of their life, why do they do it at all, except in hope of the reſurrection &amp; immortal life? To the learned aſſertours of this expoſition beſides that the cuſtome cannot be proved to have been in uſe in the Apoſtles time and that, had it obtained ſo early, it equally lies open with the next and laſt to be named to that charge, which many eagerly urge, that with<g ref="char:EOLhyphen"/>out doubt the zeal of S. <hi>Paul</hi> would never have let paſs ſo groſs an omiſſion without a ſevere reprehenſion, we offer to be conſi<g ref="char:EOLhyphen"/>dered the incongruous rendring the words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which if with the learned <hi>Voſſius</hi> they render <hi>pro ſtatu mortuorum</hi> (pray help me through theſe knots and perplexities
+<pb n="20" facs="tcp:101163:13"/>with your continued attention) if with the learned <hi>Voſſius,</hi> who acknowledgeth the not to be ſuffered harſhneſs of the other verſion, they render <hi>pro ſtatu mortuorum, ut ſibi post mortem ſit bene,</hi> for the eſtate of the dead, that it may be well with them after they are dead; even this ſeems at a far remove from the original, eſpecially when we remember that the <hi>Ms. of Alexandria</hi> and other ancient co<g ref="char:EOLhyphen"/>pies read the repetition in the end of the verſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with which reading agree ſeveral citations of the ancient <hi>Fathers,</hi> the <hi>vulgar Latine</hi> and likewiſe our old <hi>Engliſh</hi> tranſlation before named, <hi>why are they then baptized over them?</hi> plainly ſignifying not an eſtate or condition, but the perſons in ſuch condition; withall, this verſion <hi>pro ſta<g ref="char:EOLhyphen"/>tu mortuorum</hi> reduces us to the hazard, and incredible, from which firſt of all we kept at diſtance, it ſpeaking of Baptiſme not pe<g ref="char:EOLhyphen"/>culiar to ſome certain perſons, but common to all who are baptized. For we are all, be<g ref="char:EOLhyphen"/>loved Brethren, thus baptized for the dead, for the eſtate of the dead, that it may be
+<pb n="21" facs="tcp:101163:13"/>well with us after we are dead, not for the enjoyments of this tranſitory life, but for the remiſſion of ſins for the hopes and pledges of immortal felicities. But if as the moſt do they will have the words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to ſi<g ref="char:EOLhyphen"/>gnifie <hi>tanquam moribundi, jam morituri, ſub mortis tempus, quaſi mortui,</hi> they well know they can never defend themſelves with ſo much as one inſtance, either out of Scripture or any approved Greek Authour, and then to put us off with the Latine <hi>pro mortuis</hi> in the ſenſe of <hi>pro deplorato, pro derelicto,</hi> and to be pleaſed with the ſound of the Engliſh <hi>for dead,</hi> taken <hi>for dead,</hi> left <hi>for dead</hi> and the like piteous ſhifts,
+<note place="margin">Gen. 11.</note> this is to reduce us to the condition when we toyled at Brick and Morter, and were diſperſed abroad upon the face of the earth becauſe a man could not underſtand his neighbour, and to make one language not the interpretation but the con<g ref="char:EOLhyphen"/>fuſion of another.</p>
+            <p>We propoſe to your charitable judge<g ref="char:EOLhyphen"/>ment in the laſt place the moſt ancient &amp; firſt received expoſition of theſe words,
+<note place="margin">Baptiſmus vicarius.</note> touching
+<pb n="22" facs="tcp:101163:14"/>
+               <hi>proxy-Baptiſme,</hi> baptizing the <hi>living</hi> for <hi>the dead.</hi> A cuſtome in uſe among certain <hi>Here<g ref="char:EOLhyphen"/>ticks,</hi> who if any of the <hi>Catechumeni,</hi> converts to the Chriſtian faith not yet baptized but in their Catechiſme in order to Baptiſme, were ſurpriſed by death before the time appoint<g ref="char:EOLhyphen"/>ed for Baptiſme, which was <hi>Eaſter</hi> or <hi>Whit<g ref="char:EOLhyphen"/>ſontide,</hi> &amp; before that as ſome write the <hi>ſixth of January</hi> or feaſt of the <hi>Epiphany,</hi>
+               <note place="margin">Adi. ſis, Ios Scal. in locum.</note> the day on which they ſuppoſed our Saviour was ba<g ref="char:EOLhyphen"/>ptized, a cuſtome they ſay ſtill retained in the moſt ancient <hi>Aethiopian Churches,</hi> if any were taken away by death before he were bapti<g ref="char:EOLhyphen"/>zed, their manner was to ſubſtitute ſome friend alive to anſwer and to be baptized for him that was dead. You may laugh at the fond ridiculous cuſtome but notwithſtanding ap<g ref="char:EOLhyphen"/>prove the interpretation, acknowledged by <hi>Tertullian</hi> in his moſt learned tractate <hi>de Re<g ref="char:EOLhyphen"/>ſurrectione Carnis,</hi> allowed by S. <hi>Ambroſe</hi> or whoever elſe be the Author of the expla<g ref="char:EOLhyphen"/>nation of this Epiſtle which paſſes under his name, commended by <hi>Iuſtellus</hi> in his <hi>Codex Can. Eccleſ. <g ref="char:V">Ʋ</g>niverſae</hi> not to detain you in na<g ref="char:EOLhyphen"/>ming
+<pb n="23" facs="tcp:101163:14"/>
+               <hi>Camero, Caſaubon, Grotius, Muſculus</hi> and ſeveral other modern Authours famous for learning and labour in interpreting the myſteries of the ſacred Oracles.</p>
+            <p n="1">1. If this were the undoubted ſenſe, how could the words be better framed to it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they which are bapti<g ref="char:EOLhyphen"/>zed <hi>for the dead,</hi> as our <hi>preſent Engliſh Read<g ref="char:EOLhyphen"/>ing</hi> ſettleth it, no doubt upon mature ſearch and adviſe of the learned Tranſlatours: For the dead, in the place of the dead, for the ſake, for the benefit, as they imagine, of the dead. I had almoſt pronounced what I have ſometimes heard of another text, theſe words had been clear, had not the vain cu<g ref="char:EOLhyphen"/>rioſitie of expoſitours made them obſcure.</p>
+            <p n="2">2. 'Tis the moſt ancient interpretation. The Authours hitherto mentioned are all punyes to <hi>Tertullian,</hi> who once and again maketh mention of this interpretation. <hi>Epi<g ref="char:EOLhyphen"/>phanius</hi> about 160. years after <hi>Tertullian</hi> though himſelf prefer the opinion next before recited yet acknowledgeth this ſenſe to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Haereſ. 28.</note> a
+<pb n="24" facs="tcp:101163:15"/>tradition handed to him, probably, the commonly received opinion till his time. What Hiſtory of any dayes would you ra<g ref="char:EOLhyphen"/>ther read then that whoſe Author can inti<g ref="char:EOLhyphen"/>tle <hi>Hiſtoria ſui temporis</hi> who more likely to hit right upon the true intent of this ſacred ambi<g ref="char:EOLhyphen"/>guity then they who living neareſt the time wherein it was written could beſt acquaint themſelves with the Hiſtory and matter of fact upon which queſtionleſs the undoubted determination of it doth much depend.</p>
+            <p n="3">3. 'Tis not improbable but this corruption might be crept into the Church in the Apo<g ref="char:EOLhyphen"/>ſtles dayes. Not to enter the maze of profane reading, to hold you long in telling you the tale of the <hi>Calends</hi> of <hi>February,</hi> the luſtra<g ref="char:EOLhyphen"/>tions or purgations with reſpect to the dead in uſe among the <hi>Romans</hi> and before that a<g ref="char:EOLhyphen"/>mong the <hi>Graecians,</hi>
+               <note place="margin">Graecia principium moris de<g ref="char:EOLhyphen"/>dit. Ovid. Faſt.</note> from whence poſſibly this cuſtome might be derived, or at leaſt obtain ſome eaſineſs of reception: where many things muſt be paſſed by, to ſtand and note only the moſt neceſſary, and proceed under the more ſure conduct of Eccleſiaſti<g ref="char:EOLhyphen"/>cal
+<pb n="25" facs="tcp:101163:15"/>ſtory, we find <hi>Epiphanius</hi> to write that the followers of the peſtilent heretick <hi>Cerin<g ref="char:EOLhyphen"/>thus</hi> had this fond faſhion in uſe among them. This <hi>Cerinthus,</hi> as the ſame Author affirmeth, being come out of <hi>Egypt</hi> into <hi>Aſia,</hi> conſenting in part to the Jewiſh reli<g ref="char:EOLhyphen"/>gion, and being circumciſed, did frequently reſiſt the bleſſed Apoſtles, particularly was one of them who raiſed the troubles and diſſenſions at <hi>Antioch</hi> touching Circum<g ref="char:EOLhyphen"/>ciſion;
+<note place="margin">Act. 15.</note> for reconciling and compoſing where<g ref="char:EOLhyphen"/>of the firſt Counſel aſſembled at <hi>Jeruſalem.</hi> That he and his complices ſtirred up the people againſt S. <hi>Paul,</hi>
+               <note place="margin">Act. 21.</note> when he was purify<g ref="char:EOLhyphen"/>ing himſelf in the Temple: and oppoſed S.
+<note place="margin">Act. 11.</note> 
+               <hi>Peter</hi> for going to <hi>Cornelius,</hi> the converſion of which <hi>Cornelius</hi> Chronology places with<g ref="char:EOLhyphen"/>in 4 or 5 years after the converſion of S. <hi>Paul,</hi> and about 15 years before the writing of this Epiſtle to the <hi>Corinthians.</hi> This that infamous heretick of whom <hi>Irenaeus</hi> a moſt ancient Author in his book againſt hereſies, written about the 178th. year of Chriſt, from the teſtimony of <hi>Polycarpus</hi> hath re<g ref="char:EOLhyphen"/>corded,
+<note place="margin">1.3. c. 3.</note>
+               <pb n="26" facs="tcp:101163:16"/>that S. <hi>John</hi> the Apoſtle entering the Bath at <hi>Epheſus</hi> ſtarted back and made all haſt out again, ſaying, he feared the Bath would fall down <hi>cùm intus eſſet Cerinthus ini<g ref="char:EOLhyphen"/>micus veritatis,</hi> for that <hi>Cerinthus</hi> the enemy of truth was within it. And from the rela<g ref="char:EOLhyphen"/>tion of the ſame <hi>Irenaeus</hi> 'tis ſpread abroad to the knowledge of the world,
+<note place="margin">l. 3. c. 11.</note> that the damnable blaſphemies of this deteſtable Heretick, againſt the Divi<g ref="char:EOLhyphen"/>nity of our Lord and Saviour and his mira<g ref="char:EOLhyphen"/>culous birth of the bleſſed Virgin were the occaſion of the ſame holy Evangeliſt his writing his ſacred and precious Goſpel, in the very beginning whereof he is ſo plain and large in declaring and aſſerting thoſe main Articles and immoveable foundations of our Chriſtian Faith. You have heard how old the Serpent; hereto if we adde how eaſie the ſpreading his poiſon, the plau<g ref="char:EOLhyphen"/>ſible ſhews of reaſon that might be alledged for introducing the cuſtome, the proneneſs that hath diſcovered it ſelf to be natural in all nations to ſuperſtitious rites, and how
+<pb n="27" facs="tcp:101163:16"/>very credible it is that theſe <hi>Corinthians</hi> might be perſwaded to take up a fond vain cuſtome, in teſtimony of their belief of the Reſurrection, whom afterwards we ſee ſo eaſily drawn in to deny the Reſurrection, I had almoſt determined that to this anxious and difficult <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> we may here at length affix the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and re-eſtabliſh and confirm this ancient expoſition of the words, which many new ones have ſhaken and removed, but never could place one more free from exception in it's ſtead. The objection you all bear in mind is with fear and caution to be urged as well as to be anſwered. Who among us ſhall preſcribe <hi>Ethicks</hi> for Apoſto<g ref="char:EOLhyphen"/>lick prudentials? I am <hi>in any wiſe to rebuke my Brother,</hi> and not <hi>to ſuffer ſin upon him;</hi> the law of love requires it, <hi>Lev.</hi> 19.17. yet if I cannot take off all, let me firſt remove the heavyeſt burden: this is not to do evil that good may come of it, but to deſtroy a greater evil that the leſſer alſo with good ſpeed may haſte to ruine. Silence doth not alwaies give conſent. S. <hi>Paul</hi> could well
+<pb n="28" facs="tcp:101163:17"/>diſcern the <hi>time to be ſilent,</hi> and <hi>the time to ſpeak,</hi> which the wiſe man in his index of ſeaſons hath by name diſtinguiſhed <hi>Eccl.</hi> 3.7. we read S. <hi>Luke</hi> 16.8. The Lord com<g ref="char:EOLhyphen"/>mended the unjuſt Steward <hi>propter ſolertiam non propter fallaciam,</hi> becauſe he had done wiſely, not becauſe he had done wrong<g ref="char:EOLhyphen"/>fully. In S. <hi>John</hi> 9.2. we find the queſtion put <hi>Master, who did ſin, this man or his Pa<g ref="char:EOLhyphen"/>rents,</hi> that he was born blind? Originally we are all ſinners, can a man ſin actually before he is born? The Diſciples ask this queſtion upon ſuppoſal of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>animarum</hi> the <hi>praeexiſtence of Souls,</hi> or <hi>tranſmigration of Souls</hi> from one body to another, tenents then held by ma<g ref="char:EOLhyphen"/>ny of the Jews. Now he that from this place ſhall gather our Saviours aſſent to the opinion of praeexiſtence of Souls ſhall do juſt as the followers of the heretick <hi>Mar<g ref="char:EOLhyphen"/>cion,</hi> who in the age next ſucceeding this of the Apoſtles, not only kept up this idle fol<g ref="char:EOLhyphen"/>ly of baptizing the living for the dead, but as S. <hi>Chryſoſtome</hi> aſſures us,
+<note place="margin">Homil. in</note> did alledge
+<pb n="29" facs="tcp:101163:17"/>this place of the Apoſtle to prove and main<g ref="char:EOLhyphen"/>tain what they did. Our Saviour gives his anſwer according to the purpoſe in hand, that wonderfull work and mighty miracle he then intended: and our Apoſtle quick<g ref="char:EOLhyphen"/>ens his queſtion, not that he liketh of their fooliſh uſage, but that from their own doings he might convince and ſhame them of their pernicious errour. <hi>Noli novum authorem aut confirmatorem denotare,</hi> ſaith <hi>Tertullian,</hi>
+               <note place="margin">adv. Marc. 5.</note> don't think the Apoſtle joines himſelf an approver of their corrupt cuſtome, but he ſo much the more firmly proves the reſurrection of the dead, by how much they, who were vainly baptized for the dead, did do this in belief and hope of the reſurrection of the dead. Thus far, <hi>ſalvo meliore judicio,</hi> in attempt to ſhew ſome light to this dark ſentence. I have held you too long in the cold, chilled your hearing with frigid narratives and re<g ref="char:EOLhyphen"/>mote uncertainties, the difficulty of the ſub<g ref="char:EOLhyphen"/>ject ſhall plead my defence, &amp; the facility of your benevolence ſhall grant my abſolution. After all that hath bin ſaid, after all that can
+<pb n="30" facs="tcp:101163:18"/>be ſaid, give me leave to conclude this part of my diſcourſe with a paſſage I find in the works of a learned and pious Divine of our own, <hi>Mr. Bolton;</hi> who in his diſcourſe con<g ref="char:EOLhyphen"/>cerning Heaven, ſpeaking of the excellent knowledge the bleſſed ſhall there enjoy, particularly of the myſteries of the ſacred book of God, among other difficult places of Scripture, he giveth inſtance in this our Text, as an obſcurity to be cleared by the light of glory, the meaning thereof to be known when we come to Heaven.
+<note place="margin">A. Gel. 12.7.</note> And as the Judges of <hi>Areopagus</hi> adjourned a diffi<g ref="char:EOLhyphen"/>cult caſe, they knew not well what to ſay to, for an hundred years: ſo truly after all the exacteſt enquiries and moſt accurate diſ<g ref="char:EOLhyphen"/>cuſſions of this ſacred doubt, though no doubt to the <hi>Corinthians,</hi> for whoſe uſes more eſpecially it was adapted, I am much of opinion, that for the clear and uncon<g ref="char:EOLhyphen"/>troverted reſolution of the true ſenſe of this argument for the reſurrection, the world muſt now be content to wait till the reſur<g ref="char:EOLhyphen"/>rection day.</p>
+            <pb n="31" facs="tcp:101163:18"/>
+            <p> Three things I propoſed to my ſelf from the firſt view of this Text.</p>
+            <list>
+               <item>The ſenſe of the Words.</item>
+               <item>The force of the Argument.</item>
+               <item>The uſe of the Doctrine.</item>
+            </list>
+            <p>The Argument, which hath already been touched, and comes next more particularly to be declared you ſee plainly, according to the beſt probable interpretation, to be of that make which we call <hi>Argumentum ad ho<g ref="char:EOLhyphen"/>minem,</hi> an argument accommodated to the temper and conſtitution of the perſons a<g ref="char:EOLhyphen"/>gainſt whoſe errours it is directed. If the dead riſe not at all, what means that ſuper<g ref="char:EOLhyphen"/>ſtitious uſage of baptizing for the dead? why more ſolicitude for dead men then for dead beaſts, if both equally periſh, be alike involved in the darkneſs of oblivion, and deſperation of revival? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; why are they baptized for the dead, why do they not lay the rotten car<g ref="char:EOLhyphen"/>caſs out of ſight without any farther adoe, or
+<pb n="32" facs="tcp:101163:19"/>if they will waſh the body, and adorn the herſe, and carry forth the dead in pomp and ſplendour, to teſtifie, as they may ſay, the affection and honour they did bear towards them when alive, though they never look to ſee them live again, yet why are they <hi>baptized for them?</hi> why are they ſolicitous, leaſt the dead ſhould want the influence and benefit of an inſtrument of life, if there be no hope of life to come, no Reſurrection of the dead? for 'tis more then probable from ſeveral paſſages of the chapter that the poor deluded <hi>Corinthians,</hi> to whom S. <hi>Paul</hi> di<g ref="char:EOLhyphen"/>rects this diſcourſe, who denyed the <hi>Reſur<g ref="char:EOLhyphen"/>rection of the body,</hi> denyed alſo, or at leaſt doubted of the <hi>Immortality of the ſoul,</hi> theſe two errours of old time being commonly joyned together, or to keep more ſtrictly to the reſurrection of the body, why are they baptized for the dead,
+<note place="margin">Dum ſacra<g ref="char:EOLhyphen"/>mentum impenditur corpori, corpus conſecra<g ref="char:EOLhyphen"/>tur immor<g ref="char:EOLhyphen"/>talitati. Tertull.</note> why have they a remedy of life applyed to the body? why do they conſign and conſecrate the dead to future happineſs by a bodily Sacrament, if there be no Reſurrection of the Body? Thus
+<pb n="33" facs="tcp:101163:19"/>the holy Apoſtle in his ample and excellent diſcourſe upon ſo concerning a point, he leaves no way unaſſayed to convince them of their pernicious errours, to ſhame and put them upon ſelf-condemnation for their in<g ref="char:EOLhyphen"/>conſiſtent follies, committing not only truth with errour, but one of their errours with an other; not conſenting to one, but overthrow<g ref="char:EOLhyphen"/>ing another, healing rather then wounding them with their own weapon, and like a skilfull Phyſician turning poyſon into an antidote. Truth, beloved Brethren, is like a vein of Gold, whoſe head and beginning if you have once ſure hold of, you may pur<g ref="char:EOLhyphen"/>ſue it in it's native branches, unforced ema<g ref="char:EOLhyphen"/>nations and conſequences to the plentifull riches of aſſured underſtanding: Errours are like ropes of ſand, rude heaps of abſur<g ref="char:EOLhyphen"/>dities, confuſed mixtures of incoherencies and inconſiſtencies, the building ſinking un<g ref="char:EOLhyphen"/>der it's diſorderly, ill contrived fabrication, the enemies of truth at variance and de<g ref="char:EOLhyphen"/>ſtroying one another. Thus S. <hi>Epiphanius</hi> no<g ref="char:EOLhyphen"/>teth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> among the prophane poſitions
+<pb n="34" facs="tcp:101163:20"/>of the fore-named <hi>Cerinthians,</hi> and S. <hi>Baſil</hi> concerning the Sect of the <hi>Manichees,</hi> pro<g ref="char:EOLhyphen"/>nounceth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Homil. 8. in hexaem.</note> their abominable errours betray themſelves. And if time ſufficed, 'twere no unſupportable un<g ref="char:EOLhyphen"/>dertaking to ſhew, that there is neither falſe Religion nor Hereſie in the world, but ar<g ref="char:EOLhyphen"/>rowes may be taken out of it's own quiver to ſhoot againſt the face of it, but carries weapons about it to deſtroy it ſelf. Thus doth Errour ſtumble and fall at the obſta<g ref="char:EOLhyphen"/>cles and blocks it ſelf caſteth in the way, and like a guilty criminal faultring in his ſpeech and forgetting one lie when he tells another, is convict by ſelf-evidence, and periſhes through it's own diſcovery.</p>
+            <p>Shall I now take leave to <hi>ſubſtitute</hi> the <hi>living</hi> in place of <hi>the dead,</hi> to purſue the de<g ref="char:EOLhyphen"/>ſign of the Text by leaving the words of it? to <hi>initiate, ſolemnize</hi> and proſecute the argu<g ref="char:EOLhyphen"/>ments of univerſal vigour, and everlaſting ſtrength for confirming this important Truth in place of this, drawn from a local cuſtome, a <hi>ſuperſtitious vanity,</hi> a foul cor<g ref="char:EOLhyphen"/>ruption,
+<pb n="35" facs="tcp:101163:20"/>dead and gone long agoe with it's heretical authors, inſtead of this of particu<g ref="char:EOLhyphen"/>lar aſpect upon ſome certain perſons to in<g ref="char:EOLhyphen"/>troduce thoſe general probations which look wiſhly on us all: after you have ſeen the confuſion and overthrow of Errours from their own repugnant mixtures and in<g ref="char:EOLhyphen"/>conſiſtent weakneſſes, ſhall I attempt to preſent to your view the unconquerable ſta<g ref="char:EOLhyphen"/>bility of Truth on it's own native, proper, homogeneous principles, foundations <hi>immo<g ref="char:EOLhyphen"/>veable</hi> as the <hi>earth, durable</hi> as the <hi>ſun &amp; moon.
+<note place="margin">Pſal. 104.5. Pſal. 72.5. Luk. 21.33. Luk. 17.26.</note> Heaven and earth ſhall paſs away, but the word of the Lord ſhall not paſs away,</hi> the <hi>reſurrection</hi> ſhall amaze the world with it's <hi>unexpected</hi> ap<g ref="char:EOLhyphen"/>pearance, the truth and propheſies of Scri<g ref="char:EOLhyphen"/>pture ſhall be conſummated in glorious per<g ref="char:EOLhyphen"/>formances, vindicated by unavoidable events.</p>
+            <p>This were to paſs out of one depth into another, from the ſtraights of intricate in<g ref="char:EOLhyphen"/>quiries to the vaſt ocean of interminable diſcourſes; from the Labyrinth of doubts and perplexities, to the ſpacious fields of
+<pb n="36" facs="tcp:101163:21"/>perſpicuous propoſitions and intelligible methods of illuſtrious argumentations. So poſitive the affirmations of holy Scripture, ſo clear the promiſes, ſo convincing the reaſonings, and all ſo numerous, that I can find no proportion between the amplitude of the matter and the ſcarcity of the time, and of ſo ſplendid and diffuſive an argu<g ref="char:EOLhyphen"/>ment ought rather to be ſilent then to ſay a little. You in your ſound underſtand<g ref="char:EOLhyphen"/>ings and joyfull expectations have ſuper<g ref="char:EOLhyphen"/>ſeded me the eſſay, looking I ſhould ex<g ref="char:EOLhyphen"/>plain the Text, not expound the Chapter or interpret the whole Goſpel, not only believing a Reſurrection from the grave, but partakers of a Reſurrection from your ſins, enjoying the Grace of the <hi>firſt Reſur<g ref="char:EOLhyphen"/>rection</hi> in ſure pledge of the Glory of the ſecond.</p>
+            <p>Wherefore, beloved Brethren, leaving the principles of the doctrine of Chriſt, as the Apoſtle ſpeaketh <hi>Hebr.</hi> 6.1. the doctrine of <hi>Baptiſmes</hi> and the probation of the <hi>Reſur<g ref="char:EOLhyphen"/>rection of the dead,</hi> ſuffer me in a word or
+<pb n="37" facs="tcp:101163:21"/>two to direct you towards <hi>perfection,</hi> by cloſing with the third and laſt particular of our preſent undertaking, and touching very briefly upon the important uſefulneſs of this Goſpel treaſure, which the bleſſed A<g ref="char:EOLhyphen"/>poſtle with this excellent artifice and indu<g ref="char:EOLhyphen"/>ſtry contends to repoſe for ever in our eſta<g ref="char:EOLhyphen"/>bliſhed minds.</p>
+            <p>And firſt, beloved Brethren, let us e<g ref="char:EOLhyphen"/>ſtabliſh our minds, aſſure our hearts in the belief of this truth. <hi>Be ſtedfaſt, unmoveable,</hi>
+               <note place="margin">v. ult.</note> let that be the firſt point of adviſe, that what we have not time here to diſcuſs, that we never want time ſeriouſly to medi<g ref="char:EOLhyphen"/>tate, and determine to our ſelves in the immoveable judgement and awakened con<g ref="char:EOLhyphen"/>ſcience of our Souls. <hi>Though you know it, let me put you in remembrance,</hi> to be frequent in theſe exerciſes of a circumſpect conſider<g ref="char:EOLhyphen"/>ing mind not to doubt of the truth, but daily to expect the performance, to fix your faith on the promiſes of God and from the power of Scripture arguments to be ſtedfaſt in the full aſſurance of effectual un<g ref="char:EOLhyphen"/>derſtanding.
+<pb n="38" facs="tcp:101163:22"/>The Doctrine of the Reſur<g ref="char:EOLhyphen"/>rection is an Article of Faith, a point of Chriſtian wiſdome, no diſcovery of natu<g ref="char:EOLhyphen"/>ral reaſon, no inveſtigation of ſecular Phi<g ref="char:EOLhyphen"/>loſophy. One of the <hi>faithfull ſayings</hi> of the Goſpel unknown to the <hi>wiſe men</hi> and <hi>diſpu<g ref="char:EOLhyphen"/>ters of this world,</hi> whoſe beggarly under<g ref="char:EOLhyphen"/>ſtandings have not been repleniſhed with the ſalutary relief of divine revelation. Of this <hi>myſterious revolution</hi> if you conſult the inſtitutes of the heathen, you find not a bi<g ref="char:EOLhyphen"/>ennial,
+<note place="margin">A. Gal. 1.9.</note> as the <hi>Pythagorean</hi> diſcipline once was, but a perpetual ſilence, not only in the gar<g ref="char:EOLhyphen"/>dens of <hi>Epicurus,</hi> but in the walks of <hi>Ari<g ref="char:EOLhyphen"/>stotle,</hi> in the porch of <hi>Zeno,</hi> in the Academy of <hi>Plato,</hi> and if there be any other School of fame for the inveſtigations of humane wit and acquiſts of natural ratiocinations. <hi>Ci<g ref="char:EOLhyphen"/>cero, Seneca, Socrates,</hi> the beſt of the Hea<g ref="char:EOLhyphen"/>then have doubted of the <hi>immortality of the Soul,</hi> for evincing whereof to indubitate certainty whether there be indeed a weapon of proof in the armory of reaſon, I muſt not now digreſs to examine, they have
+<pb n="39" facs="tcp:101163:22"/>doubted of the <hi>immortality of the Soul,</hi> but for the <hi>reſurrection of the body</hi> it hath e<g ref="char:EOLhyphen"/>ver been <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Luc. 2.34.24.11. Act. 17.32.</note> a matter to make merry with, to mock and ſcoff at:
+<note n="*" place="margin">Caecil. apud Mi<g ref="char:EOLhyphen"/>nut. Foel.</note> 
+               <hi>aniles fabulae</hi> with ſome, <hi>pueri<g ref="char:EOLhyphen"/>tia deliramenta</hi> with others, the beſt word that <hi>Pliny,</hi> that moſt diligent ſearcher of the effects of nature, (meeting with ſome ficti<g ref="char:EOLhyphen"/>tious ſhew hereof in the roving conceits of the laughing Philoſopher) can afford it, in the ſeventh book of his <hi>Natural Hiſtory, c.</hi> 55. where he derides them who think it ſhall be otherwiſe with them after they are dead, then it was before they were born, whoſe blaſphemies tonching this matter in another place I abhor to repeat, but you may read, if you can abide it, in the ſeventh Chap. of the 2d. <hi>Book</hi> of that Hiſtory, with theſe and ſome ſuch exceptions, incomparable, and in this particularly admirable, that it ſhould be written by one who thought him<g ref="char:EOLhyphen"/>ſelf every whit mortal.</p>
+            <pb n="40" facs="tcp:101163:23"/>
+            <q>
+               <l>Soles occidere &amp; redire poſsunt,</l>
+               <l>Nobis cùm ſemel occidit brevis lux,</l>
+               <l>Nox eſt perpetuò una dormienda.</l>
+            </q>
+            <p>That the ditty wherewith the Heathen people uſed to lull themſelves aſleep. Whe<g ref="char:EOLhyphen"/>ther tends all this?
+<note place="margin">1 Tim. 6.20. 2 Pet. 1.19. 2 Tim. 1.10.</note> 
+               <hi>O Chriſtian keep that which is committed to thy trust.</hi> Thou haſt <hi>a ſure word of propheſie,</hi> the light of the Old, but eſpecially of the New Teſtament, where<g ref="char:EOLhyphen"/>in beſides the many plain propoſitions of faith, the bleſſed Apoſtle in this chapter con<g ref="char:EOLhyphen"/>deſcends to treat with our reaſon, and argues us into found and efficacious belief, unleſs we not only think we ſhall periſh with beaſts, but have already ſunk our ſelves below them in want of underſtanding. The <hi>Reſurrection,</hi> without a proverb, 'tis <hi>as ſure as death.</hi> Read and humbly learn the price at which God hath ſet thee. Pierce through the clouds with the eye of faith, and live in the ſight and influence of things inviſible.</p>
+            <p>Which brings me to the 2d. &amp; at this time
+<pb n="41" facs="tcp:101163:23"/>the laſt uſe: 'Tis needfull I deliver all in the maſs and ſumme which the time though re<g ref="char:EOLhyphen"/>newed would fail me to number out in par<g ref="char:EOLhyphen"/>cells. Accept and preſerve it in the words of S. <hi>Chryſoſtome</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<note place="margin">Homil. de reſurrect. mort. fine.</note> Let our <hi>Ethicks</hi> be ſuitable to theſe <hi>Dogmaticks;</hi> our life anſwerable to this do<g ref="char:EOLhyphen"/>ctrine; &amp; eſpecially in the confortable &amp; pow<g ref="char:EOLhyphen"/>erfull language of our bleſſed Apoſtle in the concluſion of this his excellent diſcourſe: <hi>Therefore, my beloved Brethren, be ye ſtedfaſt, un<g ref="char:EOLhyphen"/>moveable, alwayes abounding in the work of the Lord, foraſmuch as you know that your Labour is not in vain in the Lord.</hi> The reſurrection of the dead, is the calling the whole world be<g ref="char:EOLhyphen"/>fore the <hi>Judgement-ſeat of Chriſt,
+<note place="margin">2 Cor. 5, 10.</note> that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.</hi> How ſhould this reſtrain us from all ſin, the <hi>wages</hi> whereof we know to be <hi>death,</hi>
+               <note place="margin">Rom. 6.23.</note> how ſhould it animate us to all holy converſation and godlineſs, which we are ſure ſhall receive the <hi>gift of God, eternal life.</hi> To work out our own ſalvation, to act with
+<pb n="42" facs="tcp:101163:24"/>an eye on the recompenſe on reward to the glorifying of God is not derogatory from God's glory, but the higheſt advancing it; is not in a Chriſtian to be mercenary, but to be dutifull and thankfull.
+<note place="margin">2 Cor. 4.17.</note> 
+               <hi>Our light affliction which is but for a moment worketh for us a far more exceeding and eternal weight of glory.</hi> Death it ſelf and the grave are vanquiſhed, and made the paſſages to eternal life. Are we not ſtartled at the thoughts of theſe ap<g ref="char:EOLhyphen"/>proaching glories? Be not weary of this bur<g ref="char:EOLhyphen"/>den of mortality? don't we long with the bleſ<g ref="char:EOLhyphen"/>ſed Apoſtle to be <hi>clothed upon with our houſe which is from heaven?</hi>
+               <note place="margin">2 Cor. 5.2.</note> To hear the melody of Angels, to ſpeak in the dialect of glory, to ſee in the perſpectives of immortality, to enjoy <hi>what eye hath not ſeen,
+<note place="margin">1 Cor. 2.9.</note> nor ear heard, neither have entred into the heart of man, the things which God hath prepared for them that love him;</hi> to crowd about the eternal throne with Cherubims and Seraphims and all the heavenly hoſt,
+<note place="margin">Rev. 4.10.</note> and <hi>fall down</hi> and <hi>worſhip</hi> him <hi>that lives for ever and ever,</hi> to give thee, O God, in thy own heaven ſome worthy
+<pb n="43" facs="tcp:101163:24"/>praiſe for all thy infinite goodneſs and loving kindneſs to thy ſinfull, vile and miſerable creatures, which we cannot do as we would whiles loſt in fleſh, and abuſed with corru<g ref="char:EOLhyphen"/>pted ſenſes; but when it ſhall pleaſe thee to call us above, to conſort us with thy ho<g ref="char:EOLhyphen"/>ly Angels, to cauſe this <hi>corruptible</hi> to <hi>put on in<g ref="char:EOLhyphen"/>corruption,</hi> this <hi>mortal immortality;</hi> we ſhall not neglect one moment in the ages of eternity;
+<note place="margin">Phil. 5.20.</note> 
+               <hi>Be our converſation in heaven from whence we look for the Saviour, the Lord Jeſus Christ, who ſhall change our vile body, that it may be fa<g ref="char:EOLhyphen"/>ſhioned like unto his glorious body.</hi> Raiſe we our minds to eternal vigours, be our hearts in<g ref="char:EOLhyphen"/>flamed with victorious joyes, and our lips o<g ref="char:EOLhyphen"/>pened in the voice of triumph. Perſume your minds with the ſweet ſpices of the Eaſt, feed your eyes with the fair beauties of the morn<g ref="char:EOLhyphen"/>ing, <hi>the morning,</hi> after which <hi>no evening</hi> ſhall follow. Value your Souls capable of ever<g ref="char:EOLhyphen"/>laſting glories, your bodies improveable be<g ref="char:EOLhyphen"/>yond the light of the Sun, and diſdain a glance at the decitfull allurements of this tranſitory life. Your minds obſequious to hea<g ref="char:EOLhyphen"/>venly
+<pb n="44" facs="tcp:101163:25"/>attractives, and aſpiring without faint<g ref="char:EOLhyphen"/>ing to the perfections and exaltations of immortality.
+<note place="margin">Ioh. 11.25.</note> Which bleſſed eſtate <hi>Christ Jeſus, the Reſurrection and the Life,</hi> grant un<g ref="char:EOLhyphen"/>to us for his own mercies ſake. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
